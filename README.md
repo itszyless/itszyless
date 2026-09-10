@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Student & Developer</b>
+  <b>Student • Developer • Creator</b>
 </p>
 
 <p align="center">
@@ -12,45 +12,67 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-```yaml
-age: 15
-role: Student & Developer
+I'm a student and developer from Austria with a strong interest in **computer science, software development, and artificial intelligence**.
 
-currently:
-  learning: Java
-  exploring: JavaFX
+I enjoy learning how things work behind the scenes and turning ideas into real projects. Most of what I know comes from experimenting, building things, breaking them, fixing them, and learning along the way.
 
-interests:
-  - Software Development
-  - Game Development
-  - 3D Modeling
-  - Roblox Development
+Over time, I've explored different areas of development, including:
 
-current_project:
-  platform: Roblox
-  team_size: 5-7
-  roles:
-    - Project Lead
-    - Project Manager
-    - 3D Modeler
-    - Scripter
-```
+- 💻 Software Development
+- 🤖 Artificial Intelligence & AI-Assisted Development
+- 🎮 Game Development
+- 🌐 Web & Backend Development
+- 🗄️ Databases
+- 🧊 3D Modeling
+- 🕹️ Roblox Development
+- 📱 App Development
 
-## My Development Journey
+I'm especially interested in **programming, AI, and building complete applications from an idea to a working product**.
 
-My development journey started with **Python**, where I began creating Discord bots and working with Discord development.
+## 🚀 My Development Journey
 
-From there, I moved into **JavaScript**, mainly working with `discord.js`, before exploring **web development** with HTML, CSS and JavaScript.
+I started programming with **Python**, mainly by creating Discord bots and experimenting with APIs and automation.
 
-I later got into **Roblox development**, using Lua to create projects with different teams. While some of those projects were eventually discontinued, they gave me experience with both development and working as part of a team.
+From there, I moved into **JavaScript**, where I worked with `discord.js` before getting more interested in web development with **HTML, CSS, and JavaScript**.
 
-After that, I spent quite a while working with **PHP** and databases, connecting PHP applications with **MySQL** and learning how backend systems work.
+I later started developing on **Roblox**, using **Luau** to work on games with different development teams. Through these projects, I gained experience not only with scripting, but also with **3D modeling, game design, project planning, teamwork, and leading development projects**.
 
-I'm currently learning **Java** at school, including object-oriented programming and other core concepts. Outside of school, I've also been exploring **JavaFX** because I'm interested in building desktop applications and understanding Java beyond the basics.
+After that, I spent quite a while working with **PHP and MySQL**, creating database-backed applications and learning about backend development, authentication, databases, and how different parts of an application communicate with each other.
 
-## 🛠️ Technologies
+Through school, I've expanded into **Java** and concepts such as **object-oriented programming (OOP)**, while also exploring technologies such as **JavaFX** for desktop application development.
+
+I've also started exploring modern app development, working with technologies such as **React Native, Expo, Supabase, and cloud-based services**.
+
+## 🤖 AI-Assisted Development
+
+I'm interested in how artificial intelligence is changing software development and how it can be used as a tool for building and learning.
+
+Some of my projects use **AI-assisted development and vibe coding**, especially when experimenting with technologies or concepts that are new to me.
+
+Rather than treating generated code as something I automatically understand, I try to use these projects as an opportunity to gradually understand the **architecture, technologies, data flow, and concepts behind what I'm building**.
+
+For AI-assisted projects, I aim to document what was built with AI, what I understand, and what I learned from the project.
+
+## 🧠 Concepts I've Worked With
+
+Beyond individual programming languages and frameworks, I've gained experience with concepts such as:
+
+- Object-Oriented Programming (OOP)
+- Backend Development
+- Relational Databases & SQL
+- Authentication
+- APIs
+- Version Control
+- Client-Server Architecture
+- Game Development
+- UI Development
+- 3D Modeling
+- AI-Assisted Software Development
+- Project Planning & Team Collaboration
+
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
@@ -60,7 +82,9 @@ I'm currently learning **Java** at school, including object-oriented programming
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" height="50" alt="Lua"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" height="50" alt="Luau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" height="50" alt="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
@@ -68,13 +92,22 @@ I'm currently learning **Java** at school, including object-oriented programming
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50" alt="Blender"/>
 </p>
 
-## 🚀 What I'm Working On
+## 🎮 Projects & Experience
 
-Currently, I'm working on a Roblox project with a classmate as part of a small development team.
+A large part of my development experience comes from **building actual projects rather than only following tutorials**.
 
-I'm leading and managing the project while also contributing as a **3D modeler and scripter**.
+I've worked on projects ranging from Discord bots and websites to database applications, Roblox games, 3D assets, desktop applications, and mobile app experiments.
 
-My goal is to keep improving across different areas of development while building projects that I can actually be proud of.
+I've also worked with development teams where my responsibilities have included:
+
+- Project leadership and management
+- Programming & scripting
+- 3D modeling
+- Game design
+- Planning features and systems
+- Coordinating with other developers
+
+Not every project I've started has made it to release, but each one has helped me understand more about **software development, problem solving, teamwork, and turning ideas into working systems**.
 
 ## 📈 GitHub Stats
 
@@ -92,7 +125,7 @@ My goal is to keep improving across different areas of development while buildin
 ---
 
 <p align="center">
-  <i>Learning, building, and improving one project at a time.</i>
+  <i>Learning by building, experimenting, and understanding more with every project.</i>
 </p>
 
 <p align="center">
