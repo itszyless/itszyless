@@ -10,21 +10,27 @@
   <img src="https://komarev.com/ghpvc/?username=itszyless&label=Profile%20Views&style=flat" />
 </p>
 
+<h2 align="center">Let's Connect! 💬</h2>
+
 <p align="center">
   <a href="https://discord.gg/uncopylocked">
-    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/discord.svg" alt="Discord"/>
+    <img height="50" src="assets/discord.png" alt="Discord"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@itszyless">
-    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" alt="YouTube"/>
+    <img height="50" src="assets/youtube.png" alt="YouTube"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/itszyless">
-    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" alt="X"/>
+    <img height="50" src="assets/x.png" alt="X"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:zylessbusiness@gmail.com">
-    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" alt="Email"/>
+    <img height="50" src="assets/mail.png" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.roblox.com/users/1813782627/profile">
-    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/roblox.svg" alt="Roblox"/>
+    <img height="50" src="assets/roblox.png" alt="Roblox"/>
   </a>
 </p>
 
@@ -36,7 +42,7 @@ I'm a student and developer from Austria with a strong interest in **computer sc
 
 I enjoy learning how things work behind the scenes and turning ideas into real projects. Most of what I know comes from experimenting, building things, breaking them, fixing them, and learning along the way.
 
-Some of the areas I'm interested in include:
+Some of the areas I'm especially interested in are:
 
 - 💻 Software Development
 - 🤖 Artificial Intelligence & AI-Assisted Development
@@ -59,7 +65,7 @@ From there, I moved into **JavaScript**, where I worked with `discord.js` before
 
 I later started developing on **Roblox**, using **Luau** to work on games with different development teams. Through these projects, I gained experience not only with scripting, but also with **3D modeling, game design, project planning, teamwork, and leading development projects**.
 
-After that, I spent quite a while working with **PHP and MySQL**, creating database-backed applications and learning about backend development, authentication, databases, and how different parts of an application communicate with each other.
+After that, I spent quite a while working with **PHP and MySQL**, creating database-backed applications and learning more about backend development, databases, authentication, and how different parts of an application communicate with each other.
 
 Through school, I've expanded into **Java** and concepts such as **object-oriented programming (OOP)**, while also exploring technologies such as **JavaFX** for desktop application development.
 
@@ -73,9 +79,9 @@ I'm interested in how artificial intelligence is changing software development a
 
 Some of my projects use **AI-assisted development and vibe coding**, especially when experimenting with technologies or concepts that are new to me.
 
-I use these projects as an opportunity to gradually understand the **architecture, technologies, data flow, and concepts behind what I'm building**, rather than treating generated code as something I automatically understand.
+Rather than treating generated code as something I automatically understand, I use these projects as an opportunity to gradually understand the **architecture, technologies, data flow, and concepts behind what I'm building**.
 
-For AI-assisted projects, I try to document what I learned, how the project works, and which parts I understand or worked on myself.
+For AI-assisted projects, I try to document what I learned, how the project works, and which technologies and concepts I explored while building it.
 
 ---
 
@@ -92,8 +98,7 @@ For AI-assisted projects, I try to document what I learned, how the project work
 - UI Development
 - 3D Modeling
 - AI-Assisted Software Development
-- Project Planning
-- Team Collaboration
+- Project Planning & Team Collaboration
 
 ---
 
@@ -107,7 +112,7 @@ For AI-assisted projects, I try to document what I learned, how the project work
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45" height="45" alt="Lua"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45" height="45" alt="Luau"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
