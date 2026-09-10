@@ -12,19 +12,19 @@
 
 <p align="center">
   <a href="https://discord.gg/uncopylocked">
-    <img src="https://img.shields.io/badge/Discord-Build%202%20Success-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/discord.svg" alt="Discord"/>
   </a>
   <a href="https://www.youtube.com/@itszyless">
-    <img src="https://img.shields.io/badge/YouTube-itszyless-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/youtube.svg" alt="YouTube"/>
   </a>
   <a href="https://x.com/itszyless">
-    <img src="https://img.shields.io/badge/X-@itszyless-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" alt="X"/>
   </a>
   <a href="mailto:zylessbusiness@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" alt="Email"/>
   </a>
   <a href="https://www.roblox.com/users/1813782627/profile">
-    <img src="https://img.shields.io/badge/Roblox-Zyless-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+    <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/roblox.svg" alt="Roblox"/>
   </a>
 </p>
 
