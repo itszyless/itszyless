@@ -109,19 +109,6 @@ I've also worked with development teams where my responsibilities have included:
 
 Not every project I've started has made it to release, but each one has helped me understand more about **software development, problem solving, teamwork, and turning ideas into working systems**.
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itszyless&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszyless&layout=compact&hide_border=true&langs_count=8" height="170"/>
-</p>
-
-## 🐍 Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itszyless/itszyless/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
 ---
 
 <p align="center">
