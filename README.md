@@ -10,6 +10,24 @@
   <img src="https://komarev.com/ghpvc/?username=itszyless&label=Profile%20Views&style=flat" />
 </p>
 
+<p align="center">
+  <a href="https://discord.gg/uncopylocked">
+    <img src="https://img.shields.io/badge/Discord-Build%202%20Success-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@itszyless">
+    <img src="https://img.shields.io/badge/YouTube-itszyless-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://x.com/itszyless">
+    <img src="https://img.shields.io/badge/X-@itszyless-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:zylessbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.roblox.com/users/1813782627/profile">
+    <img src="https://img.shields.io/badge/Roblox-Zyless-000000?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 👋 About Me
@@ -18,18 +36,20 @@ I'm a student and developer from Austria with a strong interest in **computer sc
 
 I enjoy learning how things work behind the scenes and turning ideas into real projects. Most of what I know comes from experimenting, building things, breaking them, fixing them, and learning along the way.
 
-Over time, I've explored different areas of development, including:
+Some of the areas I'm interested in include:
 
 - 💻 Software Development
 - 🤖 Artificial Intelligence & AI-Assisted Development
 - 🎮 Game Development
 - 🌐 Web & Backend Development
+- 📱 App Development
 - 🗄️ Databases
 - 🧊 3D Modeling
 - 🕹️ Roblox Development
-- 📱 App Development
 
 I'm especially interested in **programming, AI, and building complete applications from an idea to a working product**.
+
+---
 
 ## 🚀 My Development Journey
 
@@ -43,21 +63,23 @@ After that, I spent quite a while working with **PHP and MySQL**, creating datab
 
 Through school, I've expanded into **Java** and concepts such as **object-oriented programming (OOP)**, while also exploring technologies such as **JavaFX** for desktop application development.
 
-I've also started exploring modern app development, working with technologies such as **React Native, Expo, Supabase, and cloud-based services**.
+I've also explored modern app development using technologies such as **React Native, Expo, Supabase, and cloud-based services**.
+
+---
 
 ## 🤖 AI-Assisted Development
 
-I'm interested in how artificial intelligence is changing software development and how it can be used as a tool for building and learning.
+I'm interested in how artificial intelligence is changing software development and how it can be used as both a development and learning tool.
 
 Some of my projects use **AI-assisted development and vibe coding**, especially when experimenting with technologies or concepts that are new to me.
 
-Rather than treating generated code as something I automatically understand, I try to use these projects as an opportunity to gradually understand the **architecture, technologies, data flow, and concepts behind what I'm building**.
+I use these projects as an opportunity to gradually understand the **architecture, technologies, data flow, and concepts behind what I'm building**, rather than treating generated code as something I automatically understand.
 
-For AI-assisted projects, I aim to document what was built with AI, what I understand, and what I learned from the project.
+For AI-assisted projects, I try to document what I learned, how the project works, and which parts I understand or worked on myself.
+
+---
 
 ## 🧠 Concepts I've Worked With
-
-Beyond individual programming languages and frameworks, I've gained experience with concepts such as:
 
 - Object-Oriented Programming (OOP)
 - Backend Development
@@ -70,27 +92,32 @@ Beyond individual programming languages and frameworks, I've gained experience w
 - UI Development
 - 3D Modeling
 - AI-Assisted Software Development
-- Project Planning & Team Collaboration
+- Project Planning
+- Team Collaboration
+
+---
 
 ## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="50" height="50" alt="Luau"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React Native"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" height="50" alt="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="50" height="50" alt="Blender"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="45" height="45" alt="Lua"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="45" height="45" alt="Blender"/>
 </p>
+
+---
 
 ## 🎮 Projects & Experience
 
@@ -108,6 +135,14 @@ I've also worked with development teams where my responsibilities have included:
 - Coordinating with other developers
 
 Not every project I've started has made it to release, but each one has helped me understand more about **software development, problem solving, teamwork, and turning ideas into working systems**.
+
+---
+
+## 📌 Projects
+
+You can find some of my projects and experiments in the repositories below.
+
+Some projects are built traditionally, while others are experiments with **AI-assisted development**. For those projects, I try to document what I learned and the technologies and concepts I explored while building them.
 
 ---
 
